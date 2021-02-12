@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="/ubicenter.org/author/max/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/ubicenter.org/" rel="alternate" type="text/html" />
+  <updated>2021-02-12T17:51:33+00:00</updated>
+  <id>/ubicenter.org/author/max/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">UBI Center | </title>
+  
+
+  
+    <subtitle>Analyzing universal basic income policies with open-source research</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Child Allowance Overview Copy</title>
+      <link href="/ubicenter.org/child-allowance-copy" rel="alternate" type="text/html" title="Child Allowance Overview Copy" />
+      <published>2021-01-01T07:00:00+00:00</published>
+      <updated>2021-01-01T07:00:00+00:00</updated>
+      <id>/ubicenter.org/child-allowance-copy</id>
+      <content type="html" xml:base="/ubicenter.org/child-allowance-copy">&lt;p&gt;Ghost has a number of different user roles for your team&lt;/p&gt;
+&lt;h3 id=&quot;authors&quot;&gt;Authors&lt;/h3&gt;
+&lt;p&gt;The base user level in Ghost is an author. Authors can write posts, edit their own posts, and publish their own posts. Authors are &lt;strong&gt;trusted&lt;/strong&gt; users. If you don't trust users to be allowed to publish their own posts, you shouldn't invite them to Ghost admin.&lt;/p&gt;
+&lt;h3 id=&quot;editors&quot;&gt;Editors&lt;/h3&gt;
+&lt;p&gt;Editors are the 2nd user level in Ghost. Editors can do everything that an Author can do, but they can also edit and publish the posts of others - as well as their own. Editors can also invite new authors to the site.&lt;/p&gt;
+&lt;h3 id=&quot;administrators&quot;&gt;Administrators&lt;/h3&gt;
+&lt;p&gt;The top user level in Ghost is Administrator. Again, administrators can do everything that Authors and Editors can do, but they can also edit all site settings and data, not just content. Additionally, administrators have full access to invite, manage or remove any other user of the site.&lt;/p&gt;
+&lt;h3 id=&quot;theowner&quot;&gt;The Owner&lt;/h3&gt;
+&lt;p&gt;There is only ever one owner of a Ghost site. The owner is a special user which has all the same permissions as an Administrator, but with two exceptions: The Owner can never be deleted. And in some circumstances the owner will have access to additional special settings if applicable — for example, billing details, if using Ghost(Pro).&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;It's a good idea to ask all of your users to fill out their user profiles, including bio and social links. These will populate rich structured data for posts and generally create more opportunities for themes to fully populate their design.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Max Ghenis</name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">Ghost has a number of different user roles for your team Authors The base user level in Ghost is an author. Authors can write posts, edit their own posts, and publish their own posts. Authors are trusted users. If you don't trust users to be allowed to publish their own posts, you shouldn't invite them to Ghost admin. Editors Editors are the 2nd user level in Ghost. Editors can do everything that an Author can do, but they can also edit and publish the posts of others - as well as their own. Editors can also invite new authors to the site. Administrators The top user level in Ghost is Administrator. Again, administrators can do everything that Authors and Editors can do, but they can also edit all site settings and data, not just content. Additionally, administrators have full access to invite, manage or remove any other user of the site. The Owner There is only ever one owner of a Ghost site. The owner is a special user which has all the same permissions as an Administrator, but with two exceptions: The Owner can never be deleted. And in some circumstances the owner will have access to additional special settings if applicable — for example, billing details, if using Ghost(Pro). It's a good idea to ask all of your users to fill out their user profiles, including bio and social links. These will populate rich structured data for posts and generally create more opportunities for themes to fully populate their design.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">How universal basic income would affect the black-white poverty and wealth gaps</title>
+      <link href="/ubicenter.org/black-white-gaps" rel="alternate" type="text/html" title="How universal basic income would affect the black-white poverty and wealth gaps" />
+      <published>2020-06-19T10:00:00+00:00</published>
+      <updated>2020-06-19T10:00:00+00:00</updated>
+      <id>/ubicenter.org/black-white-gaps</id>
+      <content type="html" xml:base="/ubicenter.org/black-white-gaps">&lt;p&gt;Today, one in five black Americans lives in poverty, nearly double the rate of white Americans. Meanwhile, the average net worth of white families is more than five times that of black families, and the median is more than seven times higher.&lt;/p&gt;
+
+&lt;p&gt;These gaps are the product of slavery, Jim Crow laws, housing laws denying black Americans federal mortgage subsidies, and many more injustices. Like whites-only covenants in housing deeds across America, we have yet to erase the economic legacies of our racist history.&lt;/p&gt;
+
+&lt;p&gt;A number of economic policies have been proposed to reduce these gaps, from “baby bonds” to expansions of refundable tax credits to reparations. How would universal basic income fare?&lt;/p&gt;
+
+&lt;p&gt;To answer this question, I went to the Census Bureau’s 2018 Supplemental Poverty Measure (SPM; see this Vox explainer on SPM’s improvements over the Official Poverty Measure) and the Federal Reserve’s 2016 Survey of Consumer Finances. I modeled how the black-white gaps in the SPM poverty rate, median wealth, and mean wealth change when providing each person (children, too) an unconditional payment each month. I don’t assume any funding, so this can be thought of as a lower bound on the gap closure, if the UBI were to be funded through progressive taxes.&lt;/p&gt;
+
+&lt;p&gt;The results show large effects from even modest UBIs. For example, a $200 per month payment would more than halve the black poverty rate, putting it below the current white poverty rate. This would cost about $800 billion per year. A $1,000 monthly UBI would reduce the poverty rate from its current 13 percent to roughly 1 percent for all racial groups, costing about $4 trillion.&lt;/p&gt;
+
+&lt;p&gt;UBI wouldn’t only reduce the black poverty rate on an absolute basis, it would also close the black-white poverty gap. Currently, the black poverty rate is 1.82 times the white poverty rate; a $200-per-month UBI would reduce that to 1.65, and a $1,000-per-month UBI would reduce it to 1.38.&lt;/p&gt;
+
+&lt;p&gt;The scale of racial wealth inequality — hundreds of years in the making — dampens the effect compared to poverty. White families have median wealth of $125,000, 7.7 times the median black wealth of $16,300. The mean wealth delta is relatively smaller but larger on an absolute basis: white families have average wealth of $800,000, 5.7 times the $140,000 mean wealth of black families.&lt;/p&gt;
+
+&lt;p&gt;Again there are significant effects from even the $200-per-month UBI, which would cut the median wealth gap from 7.7 to 6.0 and cut the mean wealth gap from 5.7 to 5.5.&lt;/p&gt;
+
+&lt;p&gt;While this assumes people save their entire UBI, it only reflects the program’s first year. Given how income inequality contributes to wealth inequality, we can expect that the policy would shrink the racial wealth gap more in later years, as families accrue, invest, and bequeath parts of their ongoing UBI payments over time.&lt;/p&gt;
+
+&lt;p&gt;Putting it all together and benchmarking against today, the black-white poverty and wealth gaps shrink more as the UBI grows. A $200-per-month UBI would reduce the mean wealth gap by 3.6 percent, the poverty gap by 21 percent, and the median wealth gap by 25 percent. $1,000 per month would cut the mean wealth gap by 16 percent, the poverty gap by 53 percent, and the median wealth gap by 70 percent.&lt;/p&gt;
+
+&lt;p&gt;The severity of economic disparities between black and white families justifies considering a wide range of solutions. By avoiding exclusions or strings, UBI reaches everyone and cuts the gaps substantially. Let’s include it in the conversation.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Max Ghenis</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Getting started" />
+      
+
+      
+        <summary type="html">Today, one in five black Americans lives in poverty, nearly double the rate of white Americans. Meanwhile, the average net worth of white families is more than five times that of black families, and the median is more than seven times higher.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Introducing the UBI Center</title>
+      <link href="/ubicenter.org/gettysburg-address2" rel="alternate" type="text/html" title="Introducing the UBI Center" />
+      <published>2019-06-24T17:55:59+00:00</published>
+      <updated>2019-06-24T17:55:59+00:00</updated>
+      <id>/ubicenter.org/gettysburg-address2</id>
+      <content type="html" xml:base="/ubicenter.org/gettysburg-address2">&lt;p&gt;Universal basic income has come a long way. The idea of giving every member of society an unconditional cash payment originated centuries ago with thinkers such as Adam Smith and Thomas Paine, but has mostly remained confined to economic theory since. Economists like Milton Friedman imbued UBI with new life in the 1960s and 1970s, and President Nixon nearly implemented a form of it. Governments and nonprofits experimented with cash transfers around the world, and the evidence base grew. Today, these experiments include full UBI studies, candidates for political office are centering their campaigns around UBI, and policymakers are calling for more UBI research and pilots.&lt;/p&gt;
+
+&lt;p&gt;Yet, important questions remain about what would happen if UBI were implemented. Past experiments and related research give clues into some common concerns, like what people would spend on and how much they’d adjust work hours, and new research will refine these estimates. But these questions and more, like how the economy would respond and whom would be left better or worse off, depend on how UBI policies are designed.&lt;/p&gt;
+
+&lt;p&gt;UBI is a policy tool, and like any tool, it can be used to promote a range of objectives. Some may see it as a way to cut poverty and inequality, or streamline bureaucracy and improve incentives in existing programs, or insure against economic volatility from potential technological change, or grow the economy. Others may doubt UBI’s ability to achieve these results, and others still may worry it could backfire.&lt;/p&gt;
+
+&lt;p&gt;These claims cannot be evaluated in the abstract. The notion of UBI doesn’t reduce poverty; only specific UBI policy does that. A UBI funded by a carbon tax would reduce poverty, but a UBI funded solely by ending means-tested programs would increase it. Similarly, UBI can have different effects on economic growth, depending on the design of the policy and the macroeconomic assumptions used to study the policy.&lt;/p&gt;
+
+&lt;p&gt;I formed the UBI Center to evaluate these claims concretely. The UBI Center will analyze UBI policies that have been proposed by others, produce UBI policies, and compare these to other economic policies. And since science is better when it’s transparent, the UBI Center will publish all the code behind each analysis to make results fully reproducible (to my knowledge, this makes the UBI Center the first open source think tank).&lt;/p&gt;
+
+&lt;p&gt;If you share my belief that UBI is a powerful idea worthy of serious economic analysis, I invite you to explore the research and follow our journey. The UBI Center is launching with an analysis of two UBI policies: &lt;a href=&quot;https://medium.com/ubicenter/distributional-analysis-of-andrew-yangs-freedom-dividend-d8dab818bf1b&quot;&gt;Andrew Yang’s Freedom Dividend&lt;/a&gt;, and a &lt;a href=&quot;https://medium.com/ubicenter/a-revenue-neutral-version-of-andrew-yangs-freedom-dividend-d7d517dbeeea?postPublishedType=initial&quot;&gt;revenue-neutral version&lt;/a&gt; of the Freedom Dividend.* These policies are analyzed in a two-part post and in &lt;a href=&quot;http://plans.ubicenter.org&quot;&gt;Plan Explorer&lt;/a&gt;, which lets you interactively explore the effect on various household profiles.&lt;/p&gt;
+
+&lt;p&gt;The UBI Center’s mission is to produce open-source research to inform a robust debate around UBI policies. While I’m the only one currently working on this mission full-time, others have been critical in getting to this stage. From the &lt;a href=&quot;http://ospc.org&quot;&gt;Open Source Policy Center&lt;/a&gt; building the models that underlie UBI analyses, to &lt;a href=&quot;http://usbig.net&quot;&gt;USBIG&lt;/a&gt; leaders sharing their expertise in the UBI space, to &lt;a href=&quot;http://ajsmart.com&quot;&gt;AJ&amp;amp;Smart&lt;/a&gt; generously design-sprinting toward credible economic research, this is a product of collaboration. If you’d like to contribute, please get in touch at &lt;a href=&quot;mailto:max@ubicenter.org&quot;&gt;max@ubicenter.org&lt;/a&gt;; you can also support our work with a &lt;a href=&quot;http://donorbox.org/ubicenter&quot;&gt;donation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Thank you for your interest in data-driven UBI policy research.&lt;/p&gt;
+
+&lt;p&gt;Max Ghenis
+Founder, UBI Center&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The UBI Center is not affiliated with Andrew Yang or any other political campaign.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/post/img/2019-06-24_introducing-the-ubi-center_0.png#layoutTextWidth&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;Written on June 24, 2019 by Max Ghenis.&lt;/p&gt;
+
+&lt;p&gt;Originally published on &lt;a href=&quot;https://medium.com/@maxghenis/introducing-the-ubi-center-72a8011bfc39&quot;&gt;Medium&lt;/a&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Max Ghenis</name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">Universal basic income has come a long way. The idea of giving every member of society an unconditional cash payment originated centuries ago with thinkers such as Adam Smith and Thomas Paine, but has mostly remained confined to economic theory since. Economists like Milton Friedman imbued UBI with new life in the 1960s and 1970s, and President Nixon nearly implemented a form of it. Governments and nonprofits experimented with cash transfers around the world, and the evidence base grew. Today, these experiments include full UBI studies, candidates for political office are centering their campaigns around UBI, and policymakers are calling for more UBI research and pilots.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Introducing the UBI Center</title>
+      <link href="/ubicenter.org/introducing-the-ubi-center" rel="alternate" type="text/html" title="Introducing the UBI Center" />
+      <published>2019-06-24T17:55:59+00:00</published>
+      <updated>2019-06-24T17:55:59+00:00</updated>
+      <id>/ubicenter.org/introducing-the-ubi-center</id>
+      <content type="html" xml:base="/ubicenter.org/introducing-the-ubi-center">&lt;p&gt;Universal basic income has come a long way. The idea of giving every member of society an unconditional cash payment originated centuries ago with thinkers such as Adam Smith and Thomas Paine, but has mostly remained confined to economic theory since. Economists like Milton Friedman imbued UBI with new life in the 1960s and 1970s, and President Nixon nearly implemented a form of it. Governments and nonprofits experimented with cash transfers around the world, and the evidence base grew. Today, these experiments include full UBI studies, candidates for political office are centering their campaigns around UBI, and policymakers are calling for more UBI research and pilots.&lt;/p&gt;
+
+&lt;p&gt;Yet, important questions remain about what would happen if UBI were implemented. Past experiments and related research give clues into some common concerns, like what people would spend on and how much they’d adjust work hours, and new research will refine these estimates. But these questions and more, like how the economy would respond and whom would be left better or worse off, depend on how UBI policies are designed.&lt;/p&gt;
+
+&lt;p&gt;UBI is a policy tool, and like any tool, it can be used to promote a range of objectives. Some may see it as a way to cut poverty and inequality, or streamline bureaucracy and improve incentives in existing programs, or insure against economic volatility from potential technological change, or grow the economy. Others may doubt UBI’s ability to achieve these results, and others still may worry it could backfire.&lt;/p&gt;
+
+&lt;p&gt;These claims cannot be evaluated in the abstract. The notion of UBI doesn’t reduce poverty; only specific UBI policy does that. A UBI funded by a carbon tax would reduce poverty, but a UBI funded solely by ending means-tested programs would increase it. Similarly, UBI can have different effects on economic growth, depending on the design of the policy and the macroeconomic assumptions used to study the policy.&lt;/p&gt;
+
+&lt;p&gt;I formed the UBI Center to evaluate these claims concretely. The UBI Center will analyze UBI policies that have been proposed by others, produce UBI policies, and compare these to other economic policies. And since science is better when it’s transparent, the UBI Center will publish all the code behind each analysis to make results fully reproducible (to my knowledge, this makes the UBI Center the first open source think tank).&lt;/p&gt;
+
+&lt;p&gt;If you share my belief that UBI is a powerful idea worthy of serious economic analysis, I invite you to explore the research and follow our journey. The UBI Center is launching with an analysis of two UBI policies: &lt;a href=&quot;https://medium.com/ubicenter/distributional-analysis-of-andrew-yangs-freedom-dividend-d8dab818bf1b&quot;&gt;Andrew Yang’s Freedom Dividend&lt;/a&gt;, and a &lt;a href=&quot;https://medium.com/ubicenter/a-revenue-neutral-version-of-andrew-yangs-freedom-dividend-d7d517dbeeea?postPublishedType=initial&quot;&gt;revenue-neutral version&lt;/a&gt; of the Freedom Dividend.* These policies are analyzed in a two-part post and in &lt;a href=&quot;http://plans.ubicenter.org&quot;&gt;Plan Explorer&lt;/a&gt;, which lets you interactively explore the effect on various household profiles.&lt;/p&gt;
+
+&lt;p&gt;The UBI Center’s mission is to produce open-source research to inform a robust debate around UBI policies. While I’m the only one currently working on this mission full-time, others have been critical in getting to this stage. From the &lt;a href=&quot;http://ospc.org&quot;&gt;Open Source Policy Center&lt;/a&gt; building the models that underlie UBI analyses, to &lt;a href=&quot;http://usbig.net&quot;&gt;USBIG&lt;/a&gt; leaders sharing their expertise in the UBI space, to &lt;a href=&quot;http://ajsmart.com&quot;&gt;AJ&amp;amp;Smart&lt;/a&gt; generously design-sprinting toward credible economic research, this is a product of collaboration. If you’d like to contribute, please get in touch at &lt;a href=&quot;mailto:max@ubicenter.org&quot;&gt;max@ubicenter.org&lt;/a&gt;; you can also support our work with a &lt;a href=&quot;http://donorbox.org/ubicenter&quot;&gt;donation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Thank you for your interest in data-driven UBI policy research.&lt;/p&gt;
+
+&lt;p&gt;Max Ghenis
+Founder, UBI Center&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The UBI Center is not affiliated with Andrew Yang or any other political campaign.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/post/img/2019-06-24_introducing-the-ubi-center_0.png#layoutTextWidth&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;Written on June 24, 2019 by Max Ghenis.&lt;/p&gt;
+
+&lt;p&gt;Originally published on &lt;a href=&quot;https://medium.com/@maxghenis/introducing-the-ubi-center-72a8011bfc39&quot;&gt;Medium&lt;/a&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Max Ghenis</name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">Universal basic income has come a long way. The idea of giving every member of society an unconditional cash payment originated centuries ago with thinkers such as Adam Smith and Thomas Paine, but has mostly remained confined to economic theory since. Economists like Milton Friedman imbued UBI with new life in the 1960s and 1970s, and President Nixon nearly implemented a form of it. Governments and nonprofits experimented with cash transfers around the world, and the evidence base grew. Today, these experiments include full UBI studies, candidates for political office are centering their campaigns around UBI, and policymakers are calling for more UBI research and pilots.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Gettysburg Address</title>
+      <link href="/ubicenter.org/gettysburg-address" rel="alternate" type="text/html" title="Gettysburg Address" />
+      <published>1863-11-19T10:18:00+00:00</published>
+      <updated>1863-11-19T10:18:00+00:00</updated>
+      <id>/ubicenter.org/gettysburg-address</id>
+      <content type="html" xml:base="/ubicenter.org/gettysburg-address">&lt;p&gt;Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;/p&gt;
+
+&lt;p&gt;Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.&lt;/p&gt;
+
+&lt;p&gt;But, in a larger sense, we can not dedicate-we can not consecrate-we can not hallow-this ground. The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. The world will little note, nor long remember what we say here, but it can never forget what they did here. It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us-that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion-that we here highly resolve that these dead shall not have died in vain-that this nation, under God, shall have a new birth of freedom-and that government of the people, by the people, for the people shall not perish from the earth.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Max Ghenis</name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
